@@ -169,4 +169,10 @@ public class ArraysAndLists {
         displaySalaryAtIndex(salaries.size()-1);
     }
 
+    public static void doAll() {
+        doSection_1();
+        doSection_2_1();
+        doSection_2_2();
+    }
+
 }
