@@ -1,11 +1,15 @@
 package org.untitled;
 
+import java.lang.reflect.Array;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
 
-        Datatypes.doAll();
-
+//        Datatypes.doAll();
+//        ArraysAndLists.doSection_1();
+//        ArraysAndLists.doSection_2_1();
+//        ArraysAndLists.doSection_2_2();
     }
 }
