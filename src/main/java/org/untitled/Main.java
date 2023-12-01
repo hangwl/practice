@@ -9,5 +9,6 @@ public class Main {
 
 //        Datatypes.doAll();
 //        ArraysAndLists.doAll();
+        Conditionals.doSection_1();
     }
 }
